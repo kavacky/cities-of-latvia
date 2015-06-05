@@ -1,0 +1,382 @@
+{
+    "Aina\u017ei": {
+        "lat": "57.8552975",
+        "lng": "24.3530817",
+        "is_republic": false
+    },
+    "Aizkraukle": {
+        "lat": "56.5930499",
+        "lng": "25.2431539",
+        "is_republic": false
+    },
+    "Aizpute": {
+        "lat": "56.715739",
+        "lng": "21.605305",
+        "is_republic": false
+    },
+    "Akn\u012bste": {
+        "lat": "56.1597379",
+        "lng": "25.744289",
+        "is_republic": false
+    },
+    "Aloja": {
+        "lat": "57.767136",
+        "lng": "24.8770839",
+        "is_republic": false
+    },
+    "Al\u016bksne": {
+        "lat": "57.4207878",
+        "lng": "27.0513491",
+        "is_republic": false
+    },
+    "Ape": {
+        "lat": "57.537763",
+        "lng": "26.704314",
+        "is_republic": false
+    },
+    "Auce": {
+        "lat": "56.460168",
+        "lng": "22.905478",
+        "is_republic": false
+    },
+    "Baldone": {
+        "lat": "56.7458379",
+        "lng": "24.4061069",
+        "is_republic": false
+    },
+    "Balo\u017ei": {
+        "lat": "56.8691589",
+        "lng": "24.12987",
+        "is_republic": false
+    },
+    "Balvi": {
+        "lat": "57.1324175",
+        "lng": "27.2655869",
+        "is_republic": false
+    },
+    "Bauska": {
+        "lat": "56.4102879",
+        "lng": "24.1999989",
+        "is_republic": false
+    },
+    "Broc\u0113ni": {
+        "lat": "56.673312",
+        "lng": "22.574388",
+        "is_republic": false
+    },
+    "C\u0113sis": {
+        "lat": "57.308611",
+        "lng": "25.2668719",
+        "is_republic": false
+    },
+    "Cesvaine": {
+        "lat": "56.9651439",
+        "lng": "26.3110469",
+        "is_republic": false
+    },
+    "Dagda": {
+        "lat": "56.0956089",
+        "lng": "27.532459",
+        "is_republic": false
+    },
+    "Daugavpils": {
+        "lat": "55.874736",
+        "lng": "26.536179",
+        "is_republic": true
+    },
+    "Dobele": {
+        "lat": "56.6249062",
+        "lng": "23.2791069",
+        "is_republic": false
+    },
+    "Durbe": {
+        "lat": "56.5868019",
+        "lng": "21.365424",
+        "is_republic": false
+    },
+    "Grobi\u0146a": {
+        "lat": "56.539632",
+        "lng": "21.166892",
+        "is_republic": false
+    },
+    "Gulbene": {
+        "lat": "57.1714821",
+        "lng": "26.7522537",
+        "is_republic": false
+    },
+    "Ik\u0161\u0137ile": {
+        "lat": "56.8335579",
+        "lng": "24.4954399",
+        "is_republic": false
+    },
+    "Il\u016bkste": {
+        "lat": "55.976315",
+        "lng": "26.305525",
+        "is_republic": false
+    },
+    "Jaunjelgava": {
+        "lat": "56.6123099",
+        "lng": "25.078927",
+        "is_republic": false
+    },
+    "J\u0113kabpils": {
+        "lat": "56.501455",
+        "lng": "25.878299",
+        "is_republic": true
+    },
+    "Jelgava": {
+        "lat": "56.6511091",
+        "lng": "23.7213541",
+        "is_republic": true
+    },
+    "J\u016brmala": {
+        "lat": "56.947079",
+        "lng": "23.6168486",
+        "is_republic": true
+    },
+    "Kandava": {
+        "lat": "57.033151",
+        "lng": "22.7767899",
+        "is_republic": false
+    },
+    "K\u0101rsava": {
+        "lat": "56.7837809",
+        "lng": "27.681978",
+        "is_republic": false
+    },
+    "\u0136egums": {
+        "lat": "56.7402899",
+        "lng": "24.718165",
+        "is_republic": false
+    },
+    "Kr\u0101slava": {
+        "lat": "55.894769",
+        "lng": "27.162763",
+        "is_republic": false
+    },
+    "Kuld\u012bga": {
+        "lat": "56.9688139",
+        "lng": "21.9615079",
+        "is_republic": false
+    },
+    "Lielv\u0101rde": {
+        "lat": "56.719152",
+        "lng": "24.814229",
+        "is_republic": false
+    },
+    "Liep\u0101ja": {
+        "lat": "56.5046678",
+        "lng": "21.010806",
+        "is_republic": true
+    },
+    "L\u012bgatne": {
+        "lat": "57.2363399",
+        "lng": "25.0380729",
+        "is_republic": false
+    },
+    "Limba\u017ei": {
+        "lat": "57.5129829",
+        "lng": "24.721996",
+        "is_republic": false
+    },
+    "L\u012bv\u0101ni": {
+        "lat": "56.355176",
+        "lng": "26.1725259",
+        "is_republic": false
+    },
+    "Lub\u0101na": {
+        "lat": "56.8999269",
+        "lng": "26.7198789",
+        "is_republic": false
+    },
+    "Ludza": {
+        "lat": "56.545959",
+        "lng": "27.7143199",
+        "is_republic": false
+    },
+    "Madona": {
+        "lat": "56.854995",
+        "lng": "26.2255149",
+        "is_republic": false
+    },
+    "Mazsalaca": {
+        "lat": "57.860649",
+        "lng": "25.0555912",
+        "is_republic": false
+    },
+    "Ogre": {
+        "lat": "56.8147355",
+        "lng": "24.6044555",
+        "is_republic": false
+    },
+    "Olaine": {
+        "lat": "56.789674",
+        "lng": "23.9295799",
+        "is_republic": false
+    },
+    "P\u0101vilosta": {
+        "lat": "56.886652",
+        "lng": "21.1951809",
+        "is_republic": false
+    },
+    "Piltene": {
+        "lat": "57.2246256",
+        "lng": "21.6775832",
+        "is_republic": false
+    },
+    "P\u013cavi\u0146as": {
+        "lat": "56.6182449",
+        "lng": "25.725792",
+        "is_republic": false
+    },
+    "Prei\u013ci": {
+        "lat": "56.290878",
+        "lng": "26.721958",
+        "is_republic": false
+    },
+    "Priekule": {
+        "lat": "56.4482379",
+        "lng": "21.5989599",
+        "is_republic": false
+    },
+    "R\u0113zekne": {
+        "lat": "56.5099223",
+        "lng": "27.3331357",
+        "is_republic": true
+    },
+    "R\u012bga": {
+        "lat": "56.9496487",
+        "lng": "24.1051864",
+        "is_republic": true
+    },
+    "R\u016bjiena": {
+        "lat": "57.8938909",
+        "lng": "25.339336",
+        "is_republic": false
+    },
+    "Sabile": {
+        "lat": "57.047929",
+        "lng": "22.5681719",
+        "is_republic": false
+    },
+    "Salacgr\u012bva": {
+        "lat": "57.7581391",
+        "lng": "24.3543455",
+        "is_republic": false
+    },
+    "Salaspils": {
+        "lat": "56.8564288",
+        "lng": "24.3522718",
+        "is_republic": false
+    },
+    "Saldus": {
+        "lat": "56.6653019",
+        "lng": "22.492169",
+        "is_republic": false
+    },
+    "Saulkrasti": {
+        "lat": "57.2680959",
+        "lng": "24.415088",
+        "is_republic": false
+    },
+    "Seda": {
+        "lat": "57.6510969",
+        "lng": "25.745871",
+        "is_republic": false
+    },
+    "Sigulda": {
+        "lat": "57.1495626",
+        "lng": "24.8603325",
+        "is_republic": false
+    },
+    "Skrunda": {
+        "lat": "56.674534",
+        "lng": "22.0049709",
+        "is_republic": false
+    },
+    "Smiltene": {
+        "lat": "57.423063",
+        "lng": "25.900378",
+        "is_republic": false
+    },
+    "Staicele": {
+        "lat": "57.833436",
+        "lng": "24.760474",
+        "is_republic": false
+    },
+    "Stende": {
+        "lat": "57.141246",
+        "lng": "22.5366559",
+        "is_republic": false
+    },
+    "Stren\u010di": {
+        "lat": "57.630161",
+        "lng": "25.692493",
+        "is_republic": false
+    },
+    "Subate": {
+        "lat": "56.0083219",
+        "lng": "25.91185",
+        "is_republic": false
+    },
+    "Talsi": {
+        "lat": "57.2480409",
+        "lng": "22.5873859",
+        "is_republic": false
+    },
+    "Tukums": {
+        "lat": "56.969664",
+        "lng": "23.15319",
+        "is_republic": false
+    },
+    "Valdem\u0101rpils": {
+        "lat": "57.3690549",
+        "lng": "22.591118",
+        "is_republic": false
+    },
+    "Valka": {
+        "lat": "57.776041",
+        "lng": "26.0028389",
+        "is_republic": false
+    },
+    "Valmiera": {
+        "lat": "57.5384659",
+        "lng": "25.4263618",
+        "is_republic": true
+    },
+    "Vanga\u017ei": {
+        "lat": "57.0936018",
+        "lng": "24.5424341",
+        "is_republic": false
+    },
+    "Varak\u013c\u0101ni": {
+        "lat": "56.606956",
+        "lng": "26.759953",
+        "is_republic": false
+    },
+    "Ventspils": {
+        "lat": "57.3615603",
+        "lng": "21.5470268",
+        "is_republic": true
+    },
+    "Vies\u012bte": {
+        "lat": "56.3448609",
+        "lng": "25.5603229",
+        "is_republic": false
+    },
+    "Vi\u013caka": {
+        "lat": "57.1879589",
+        "lng": "27.682503",
+        "is_republic": false
+    },
+    "Vi\u013c\u0101ni": {
+        "lat": "56.5501038",
+        "lng": "26.9229659",
+        "is_republic": false
+    },
+    "Zilupe": {
+        "lat": "56.387721",
+        "lng": "28.1195609",
+        "is_republic": false
+    }
+}
